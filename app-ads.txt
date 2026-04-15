@@ -1540,3 +1540,9 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
+# --- TopOn & Unity & Pangle Update 2026-04-16 ---
+pubnative.net, 1017792, RESELLER, d641df8625486a7b
+pangleglobal.com, 5027323, DIRECT
+vidazoo.com, 66e04f5e4d7fd89d878d29d2, RESELLER, b6ada874b4d7d0b2
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+conversantmedia.com, 100396, RESELLER, 03113cd04947736d
