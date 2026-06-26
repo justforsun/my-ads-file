@@ -1880,6 +1880,41 @@ themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
 improvedigital.com, 2276, RESELLER
 video.unrulymedia.com,123476257,RESELLER
 lijit.com,465542,RESELLER,fafdf38b16bf6b2b
+pubmatic.com, 165329, RESELLER, 5d62403b186f2ace
+shortiz.tv, SHTZ1000010, RESELLER
+acexchange.co.kr, 1024274798, RESELLER
+adtonos.com.PUB927721623.RESELLER
+adwmg.com, 100956, RESELLER, c9688a22012618e7
+apkpure.com, 79926, RESELLER
+appnexus.com, 12616, RESELLER, f5ab79cb980f11d1
+betweendigital.com, 45036, RESELLER
+bidmachine.io, 1544, RESELLER
+consumable.com, 2001674, RESELLER, aefcd3d2f45b5070
+coolplaygames.com, 95dc463bbaee3091, RESELLER
+gravite.net, 360286c6b76309c9db155ae589ded8c5, RESELLER, b3bb5a9415a362a1
+indexexchange.com, 192505, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 214429, RESELLER, 50b1c356f2c5c8fc
+lijit.com, 524160, RESELLER, fafdf38b16bf6b2b
+lijit.com, 524160-eb, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11524, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 15601, RESELLER, 6c8d5f95897a5a3b
+openx.com, 563685767, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 166385, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 26574, RESELLER
+rubiconproject.com, 28175, RESELLER, 0bfd66d529a55807
+sharethrough.com.4024, RESELLER, D53B998A7BD4ECD2
+smartadserver.com, 4024, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5450, RESELLER, 060d053dcf45cbf3
+sonobi.com, 97e60f3067, RESELLER, d1a215d9eb5aee9e
+taurusx.com, 80654, RESELLER
+themediagrid.com, 8USKI6, RESELLER, 9fac4a4a87c2a44f
+thenexapp.com, 236543, RESELLER
+triplelift.com, 13567, RESELLER, 6c33edb13117fd86
+triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+triplelift.com, 14793, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 107383778, RESELLER
+video.unrulymedia.com, 311790951, RESELLER, 98c21ef9a666c68b
+video.unrulymedia.com, 3890682751, RESELLER
 # --- TopOn & Unity & Pangle Update 2026-04-16 ---
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
 pangleglobal.com, 5027323, DIRECT
