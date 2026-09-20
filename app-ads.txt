@@ -1961,3 +1961,5 @@ verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 713332123, RESELLER, 98c21ef9a666c68b
 video.unrulymedia.com, 839999282, RESELLER, 98c21ef9a666c68b
 videoshakers.tv, 58204917364298, RESELLER, 819580c2afa8a3aa
+media.net, 8CA5W5AK6, RESELLER
+playdigo.com, 2198, RESELLER, 92011346d63d3c30
