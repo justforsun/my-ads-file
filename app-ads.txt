@@ -1964,3 +1964,4 @@ videoshakers.tv, 58204917364298, RESELLER, 819580c2afa8a3aa
 spinx.biz, 1373698940, RESELLER
 media.net, 8CA5W5AK6, RESELLER
 playdigo.com, 2198, RESELLER, 92011346d63d3c30
+lijit.com, 569924, RESELLER, fafdf38b16bf6b2b
